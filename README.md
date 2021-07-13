@@ -1,4 +1,4 @@
-# PR-CTICA-No.-4
+# Informe-Laboratorio4
 
 <div align="center">
 
@@ -20,7 +20,7 @@ INGENIERO
 
 Ing. Darwin Omar Alulema Flores
 
-# PRÁCTICA No. 3 ANÁLISIS DE NODOS
+# PRÁCTICA No. 4 TEOREMA DE SUPERPOSICIÓN
   
 </div>
 
