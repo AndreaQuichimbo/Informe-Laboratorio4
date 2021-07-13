@@ -30,6 +30,15 @@ Ing. Darwin Omar Alulema Flores
 
 **1.2. REQUISITOS PREVIOS**
 
+<p style='text-align: justify;'> 
+
+Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el
+Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la polaridad
+del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en
+la tabla 4.1. y 4.2. según corresponda.
+
+</p>
+
 **1.3. INFORMACIÓN GENERAL**
 
 # 2 MARCO TEÓRICO
