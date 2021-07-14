@@ -50,6 +50,21 @@ Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cu
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
+
+<div align="center">
+     
+|**CANTIDAD**|**MATERIAL O EQUIPO** |
+|    :---:   |       :---:          | 
+|      2     | Fuente de Voltaje de C.D. |
+|      2     | Multímetro Digital |
+|      1     | Resistor de 1 kΩ |
+|      1     | Resistor de 2.2 kΩ  |
+|      1     | Resistor de 820 Ω  |
+|      1     | Resistor de 470 Ω |
+|      1     | Protoboard |
+
+</div>
+
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
 **4.5 PROCEDIMIENTO**
