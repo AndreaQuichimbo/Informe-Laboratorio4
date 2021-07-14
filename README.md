@@ -64,15 +64,15 @@ Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cu
 
 <div align="center">
      
-|**CANTIDAD**|**MATERIAL O EQUIPO** |
-|    :---:   |       :---:          | 
+|**CANTIDAD**|   **MATERIAL O EQUIPO**   |
+|    :---:   |          :---:            | 
 |      2     | Fuente de Voltaje de C.D. |
-|      2     | Multímetro Digital |
-|      1     | Resistor de 1 kΩ |
-|      1     | Resistor de 2.2 kΩ  |
-|      1     | Resistor de 820 Ω  |
-|      1     | Resistor de 470 Ω |
-|      1     | Protoboard |
+|      2     |     Multímetro Digital    |
+|      1     |      Resistor de 1 kΩ     |
+|      1     |     Resistor de 2.2 kΩ    |
+|      1     |      Resistor de 820 Ω    |
+|      1     |      Resistor de 470 Ω    |
+|      1     |          Protoboard       |
 
 </div>
 
@@ -86,6 +86,7 @@ Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cu
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
+|  |
 **4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
