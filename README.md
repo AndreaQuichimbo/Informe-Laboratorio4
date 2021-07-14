@@ -28,6 +28,17 @@ Ing. Darwin Omar Alulema Flores
 
 **1.1. OBJETIVO DE LA PRÁCTICA**
 
+1.1.1. Objetivo general
+
+- Entender el teorema de superposición para comprobar mediante la resolución de la práctica de laboratorio y usar su surespectiva simulación en un software de diseño electrónico.
+
+1.1.2. Objetivos específicoso
+
+- Resolver un circuito eléctrico mediante el teorema de superposición.
+- Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación   en   unsoftware de diseño electrónico.
+- Verificar en forma experimental el teorema de Superposición
+- Este teorema proporciona un método alternativo de solución para cualquier circuito lineal que contenga dos o mas fuentes y cuyo resultado es la sumaalgebraica de las respuestas parciales obtenidas, por cada una de las fuentesactuando separadamente.
+
 **1.2. REQUISITOS PREVIOS**
 
 Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en la tabla 4.1. y 4.2. según corresponda.
