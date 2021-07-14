@@ -34,10 +34,10 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.2. Objetivos específicoso
 
-- Resolver un circuito eléctrico mediante el teorema de superposición.
-- Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación   en   unsoftware de diseño electrónico.
 - Verificar en forma experimental el teorema de Superposición
-- Este teorema proporciona un método alternativo de solución para cualquier circuito lineal que contenga dos o mas fuentes y cuyo resultado es la sumaalgebraica de las respuestas parciales obtenidas, por cada una de las fuentesactuando separadamente.
+- Resolver un circuito eléctrico mediante el teorema de superposición.
+- Entender la importancia de los teoremas en la resolución de cuestiones tanto teóricas como prácticas.
+- Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación   en   unsoftware de diseño electrónico.
 
 **1.2. REQUISITOS PREVIOS**
 
@@ -98,7 +98,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.**
 
-**Calculo del Error**
+**Cálculo del Error**
 
 # 5 VIDEO 
 
@@ -107,9 +107,9 @@ conclusiones.**
 - Para usar el teorema de superposición con corrientes y voltajes de circuito, todos los componentes deben ser lineales; es decir, para todos los componentes resistivos, la corriente debe ser proporcional al voltaje aplicado (satisfaciendo la ley de Ohm).
 - El voltaje o corriente total se calcula como la suma algebraica de las contribuciones de las fuentes. Si una contribución de una fuente tiene la misma dirección que la dirección de referencia, tiene un signo positivo en la suma; si tiene la dirección opuesta, entonces un signo negativo.
 - Tenga en cuenta que si las fuentes de voltaje o corriente tienen resistencia interna, debe permanecer en el circuito y aún debe considerarse. En TINA, puede asignar una resistencia interna al voltaje de CC y las fuentes de corriente, mientras usa el mismo símbolo esquemático. Por lo tanto, si desea ilustrar el teorema de superposición y al mismo tiempo utilizar fuentes con resistencia interna, solo debe establecer el voltaje (o corriente) de la fuente en cero, lo que deja intacta la resistencia interna de la fuente. Alternativamente, puede reemplazar la fuente con una resistencia igual a su resistencia interna.
+- Este teorema proporciona un método alternativo de solución para cualquier circuito lineal que contenga dos o mas fuentes y cuyo resultado es la sumaalgebraica de las respuestas parciales obtenidas, por cada una de las fuentesactuando separadamente.
 
-
-# 7 BIBLIOGRAFÍA
+# 7 BIBLIOGRAFÍAS
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
 
