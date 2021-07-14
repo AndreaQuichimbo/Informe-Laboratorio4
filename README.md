@@ -36,7 +36,7 @@ Ing. Darwin Omar Alulema Flores
 
 - Verificar en forma experimental el teorema de Superposición
 - Resolver un circuito eléctrico mediante el teorema de superposición.
-- Entender la importancia de los teoremas en la resolución de cuestiones tanto teóricas como prácticas.
+- Comprender la importancia de los teoremas en la resolución de cuestiones tanto teóricas como prácticas.
 - Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación   en   unsoftware de diseño electrónico.
 
 **1.2. REQUISITOS PREVIOS**
