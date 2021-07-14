@@ -86,3 +86,9 @@ conclusiones.**
 # 7 BIBLIOGRAFÍA
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+
+DesignSoftTINA. (2020). Obtenido de TEOREMA DE LA SUPERPOSICION: https://www.tina.com/es/superposition-theorem/
+
+Electrónica Unicrom. (s.f.). Obtenido de Teorema de superposición: https://unicrom.com/teorema-de-superposicion/
+
+
