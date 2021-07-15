@@ -92,15 +92,30 @@ Seleccionamos los materiales para proceder armar el circuito.
 
 ![2021-07-14 15_57_50-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125713954-05d62ffd-f855-49a0-9d80-1a2eeb3e1b90.png)
 
+Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado.
 
-   
+![2021-07-14 16_00_54-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714270-0bc9b1aa-dd05-4651-a089-c1afe6559ed3.png)
+
+Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
+
+![2021-07-14 16_05_39-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714292-d4c579a2-14af-4540-be45-6247cefd156d.png)
+
+Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
+
+![2021-07-14 17_15_45-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714316-b334ba06-092d-48ae-9fc6-ff2d2015b6c5.png)
+  
 **4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
+![2021-07-14 20_13_07-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714331-5211abfc-5fc4-4b54-aa55-5b453684403d.png)
+
+
 **4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
+
+![2021-07-14 20_17_11-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714342-f19bc9e6-5e0a-44df-be2a-acbc096aa88f.png)
 
 **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
