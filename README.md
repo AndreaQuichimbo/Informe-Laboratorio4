@@ -82,11 +82,18 @@ Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cu
 
 **4.5.1. Arme el circuito que se muestra en la figura 4.1.**
 
+![image](https://user-images.githubusercontent.com/84587293/125713780-948abbc3-d64f-4285-956b-2b7f25a3bad5.png)
+
 **4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
-|  |
+Seleccionamos los materiales para proceder armar el circuito.
+
+![2021-07-14 15_57_50-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125713954-05d62ffd-f855-49a0-9d80-1a2eeb3e1b90.png)
+
+
+   
 **4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
