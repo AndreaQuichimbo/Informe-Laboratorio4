@@ -136,8 +136,7 @@ conclusiones.**
 
 ![7](https://user-images.githubusercontent.com/84587172/125850748-95ef9332-ea4e-41a6-8b31-b6986fa17b1d.png)
 
-![8](https://user-images.githubusercontent.com/84587172/125850752-cc96283f-f90b-4c7b-bbee-3433a2de1b00.png)
-
+![9](https://user-images.githubusercontent.com/84587172/125851084-2881798c-a642-464a-9925-7e75b5c23d70.png)
 
 **Cálculo del Error**
 
