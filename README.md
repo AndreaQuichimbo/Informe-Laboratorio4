@@ -120,6 +120,25 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.**
 
+**Procedimiento Analítico**
+
+![1](https://user-images.githubusercontent.com/84587172/125850668-55a0fe05-339e-4caa-9979-ae13b80547bb.png)
+
+![2](https://user-images.githubusercontent.com/84587172/125850696-d5087d77-03e1-443a-a901-bfdac8a9b7ff.png)
+
+![3](https://user-images.githubusercontent.com/84587172/125850709-515c06d0-e09b-4313-bf2b-268f05b1f161.png)
+
+![4](https://user-images.githubusercontent.com/84587172/125850718-b322099c-2bd1-4220-98f6-ffb91f92f068.png)
+
+![5](https://user-images.githubusercontent.com/84587172/125850730-3750bcab-effc-49fc-bb8c-0389b3e8fbed.png)
+
+![6](https://user-images.githubusercontent.com/84587172/125850741-9a46914f-d7f3-4402-8059-dc7ad1d0aa7f.png)
+
+![7](https://user-images.githubusercontent.com/84587172/125850748-95ef9332-ea4e-41a6-8b31-b6986fa17b1d.png)
+
+![8](https://user-images.githubusercontent.com/84587172/125850752-cc96283f-f90b-4c7b-bbee-3433a2de1b00.png)
+
+
 **Cálculo del Error**
 
 # 5 VIDEO 
