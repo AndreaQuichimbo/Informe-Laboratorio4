@@ -108,7 +108,7 @@ Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
-
+![image](https://user-images.githubusercontent.com/84587293/125715398-3f304798-3001-4228-b8a1-6ce57bcd389a.png)
 
 **4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
