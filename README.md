@@ -61,7 +61,6 @@ Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cu
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
-
 <div align="center">
      
 |**CANTIDAD**|   **MATERIAL O EQUIPO**   |
@@ -82,7 +81,11 @@ Cuando suma las contribuciones de las fuentes, debe tener cuidado de tener en cu
 
 **4.5.1. Arme el circuito que se muestra en la figura 4.1.**
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125713780-948abbc3-d64f-4285-956b-2b7f25a3bad5.png)
+
+</div>
 
 **4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
