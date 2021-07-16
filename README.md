@@ -137,6 +137,20 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/125879847-793081b2-257b-490e-9a3e-4253e27ce63d.png)
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+     
+|  **VOLTAJE TOTAL** |   **VOLTAJE (VA) V2=0**   |  **VOLTAJE (VA) V1=0**   |
+|       :---:        |          :---:            |          :---:           |
+| Calculado | Medido |   Calculado   |   Medido  |  Calculado  |   Medido   |
+|   0.94 V  | 0.952 A|     7.47 V    |   5.70 V  |   -6,53 V   |   -6.53    |
+  
+Tabla 4.2. Medición de corriente aplicando superposición.
+  
+|  **VOLTAJE TOTAL** |   **VOLTAJE (VA) V2=0**   |  **VOLTAJE (VA) V1=0**   |
+|       :---:        |          :---:            |          :---:           |
+| Calculado | Medido |   Calculado   |   Medido  |  Calculado  |   Medido   |
+| 25.53 mA  |25.5 mA |       0A      |  6.95 mA  |  25.53 mA   |   25.5 mA  |
   
 </div>
 
