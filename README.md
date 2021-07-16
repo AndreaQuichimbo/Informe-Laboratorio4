@@ -108,7 +108,7 @@ Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
 
 <div align="center">
 
-
+![image](https://user-images.githubusercontent.com/84430867/125881512-10ee4d75-8091-4622-ac59-c09dcf48600c.png)
 
 </div>
 
