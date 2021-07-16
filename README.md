@@ -100,7 +100,7 @@ Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado
 
 <div align="center">
 
-
+![image](https://user-images.githubusercontent.com/84430867/125881653-c18530da-48f8-45bc-9820-50dcd5c01fd0.png)
 
 </div>
 
