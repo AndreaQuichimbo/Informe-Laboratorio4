@@ -150,7 +150,7 @@ Tabla 4.1. Medición de voltaje aplicando superposición.
   
 Tabla 4.2. Medición de corriente aplicando superposición.
   
-| **VOLTAJE TOTAL** ||  **VOLTAJE (VA) V2=0**  | |  **VOLTAJE (VA) V1=0** | |
+|**CORRIENTE TOTAL**|| **CORRIENTE (VA) V2=0** | | **CORRIENTE (VA) V1=0** | |
 |    :---:  |  :---: |     :---:     |   :---:   |    :---:    |   :---:    | 
 | Calculado | Medido |   Calculado   |   Medido  |  Calculado  |   Medido   |
 | 25.53 mA  | 25.5 mA |      0 A     |    0 mA   |  25.53 mA   |   25.5 mA  |
