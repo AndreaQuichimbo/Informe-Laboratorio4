@@ -187,6 +187,8 @@ conclusiones.**
 
 # 5 VIDEO 
 
+https://youtu.be/I1C40uOwtvg
+
 # 6 CONCLUSIONES 
 
 - Para usar el teorema de superposición con corrientes y voltajes de circuito, todos los componentes deben ser lineales; es decir, para todos los componentes resistivos, la corriente debe ser proporcional al voltaje aplicado (satisfaciendo la ley de Ohm).
