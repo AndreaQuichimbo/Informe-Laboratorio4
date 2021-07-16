@@ -143,7 +143,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
      
-|  **VOLTAJE TOTAL** |   **VOLTAJE (VA) V2=0**   |  **VOLTAJE (VA) V1=0**   |
+|  **VOLTAJE TOTAL**||   **VOLTAJE (VA) V2=0**  ||  **VOLTAJE (VA) V1=0**  ||
 |       :---:        |          :---:            |          :---:           |
 | Calculado | Medido |   Calculado   |   Medido  |  Calculado  |   Medido   |
 |   0.94 V  | 0.952 A|     7.47 V    |   5.70 V  |   -6,53 V   |   -6.53    |
