@@ -185,6 +185,8 @@ conclusiones.**
 
 **Cálculo del Error**
 
+![5](https://user-images.githubusercontent.com/84587172/125982380-688fd5ac-41eb-4c0d-95c1-ecd359ebc853.png)
+
 # 5 VIDEO 
 
 https://youtu.be/I1C40uOwtvg
