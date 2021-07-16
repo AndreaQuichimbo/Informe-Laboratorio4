@@ -100,7 +100,7 @@ Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/125879847-793081b2-257b-490e-9a3e-4253e27ce63d.png)
+
 
 </div>
 
@@ -108,7 +108,7 @@ Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/125880000-411ed277-4615-4beb-bb7c-6b7af3ac6213.png)
+
 
 </div>
 
@@ -126,8 +126,8 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84587293/125715398-3f304798-3001-4228-b8a1-6ce57bcd389a.png)
-
+![image](https://user-images.githubusercontent.com/84430867/125880000-411ed277-4615-4beb-bb7c-6b7af3ac6213.png)
+  
 </div>
 
 **4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
@@ -136,8 +136,8 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 <div align="center">
   
-![2021-07-14 20_17_11-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714342-f19bc9e6-5e0a-44df-be2a-acbc096aa88f.png)
-
+![image](https://user-images.githubusercontent.com/84430867/125879847-793081b2-257b-490e-9a3e-4253e27ce63d.png)
+  
 </div>
 
 **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
