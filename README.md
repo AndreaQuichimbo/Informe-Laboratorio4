@@ -129,7 +129,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/125880000-411ed277-4615-4beb-bb7c-6b7af3ac6213.png)
+![image](https://user-images.githubusercontent.com/84430867/125976977-4772b8be-d23d-4c87-a133-213aaeaf6b75.png)
   
 </div>
 
