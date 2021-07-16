@@ -139,7 +139,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84430867/125879847-793081b2-257b-490e-9a3e-4253e27ce63d.png)
+![image](https://user-images.githubusercontent.com/84430867/125894249-2d174d5d-347f-41af-9efb-da1333c286f3.png)
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
      
