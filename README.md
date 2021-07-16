@@ -90,31 +90,55 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
 Seleccionamos los materiales para proceder armar el circuito.
 
+<div align="center">
+
 ![2021-07-14 15_57_50-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125713954-05d62ffd-f855-49a0-9d80-1a2eeb3e1b90.png)
+
+</div>
 
 Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado.
 
-![2021-07-14 16_00_54-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714270-0bc9b1aa-dd05-4651-a089-c1afe6559ed3.png)
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/125879847-793081b2-257b-490e-9a3e-4253e27ce63d.png)
+
+</div>
 
 Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
 
-![2021-07-14 16_05_39-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714292-d4c579a2-14af-4540-be45-6247cefd156d.png)
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/125880000-411ed277-4615-4beb-bb7c-6b7af3ac6213.png)
+
+</div>
 
 Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
 
-![2021-07-14 17_15_45-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714316-b334ba06-092d-48ae-9fc6-ff2d2015b6c5.png)
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/125880160-d3ee28c0-4a39-40a1-82e5-ccb2525a024c.png)
   
+</div>
+
 **4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/125715398-3f304798-3001-4228-b8a1-6ce57bcd389a.png)
+
+</div>
 
 **4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
+<div align="center">
+  
 ![2021-07-14 20_17_11-Circuit design Glorious Uusam _ Tinkercad](https://user-images.githubusercontent.com/84587293/125714342-f19bc9e6-5e0a-44df-be2a-acbc096aa88f.png)
+
+</div>
 
 **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
@@ -122,6 +146,8 @@ conclusiones.**
 
 **Procedimiento Analítico**
 
+<div align="center">
+  
 ![1](https://user-images.githubusercontent.com/84587172/125850668-55a0fe05-339e-4caa-9979-ae13b80547bb.png)
 
 ![2](https://user-images.githubusercontent.com/84587172/125850696-d5087d77-03e1-443a-a901-bfdac8a9b7ff.png)
@@ -137,6 +163,8 @@ conclusiones.**
 ![7](https://user-images.githubusercontent.com/84587172/125850748-95ef9332-ea4e-41a6-8b31-b6986fa17b1d.png)
 
 ![9](https://user-images.githubusercontent.com/84587172/125851084-2881798c-a642-464a-9925-7e75b5c23d70.png)
+
+</div>
 
 **Cálculo del Error**
 
